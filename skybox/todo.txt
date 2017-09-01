@@ -1,0 +1,7 @@
+
+probably use cycles (unfortunately) or find some way using bake (mirror?)
+reason is because we need border on rendered environment map
+
+tidy script, maybe put into blender utils file, maybe make command line version
+make so doesn't even export .egg, panda3d should use setTexture
+(script to auto render lots of equitangular images into environment maps?)
